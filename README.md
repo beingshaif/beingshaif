@@ -27,18 +27,18 @@
 </p>
 
 
-<h3><i>Interested on my top projects? <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /></i></h3>
+<!-- <h3><i>Interested on my top projects? <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /></i></h3>
 <p align="left">
 <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate" /></a> &nbsp;
 <a href="https://github.com/m-sehrawat/Adidas-Website-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
-</p>
+</p> -->
 
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
-<a href="https://linkedin.com/in/m-sehrawat" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-sehrawat" /></a>
-  <a href="https://hashnode.com/@mohit-sehrawat" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="m-sehrawat" /></a>
-  <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="m-sehrawat" /></a> 
+<a href="https://www.linkedin.com/in/saif-ali-%E3%83%BB-%D8%B3%D9%8A%D9%81-%D8%B9%D9%84%D9%8A-7b22251b7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-sehrawat" /></a>
+<!--   <a href="https://hashnode.com/@mohit-sehrawat" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="m-sehrawat" /></a> -->
+  <a title="blazing.shaif@gmail.com" href="mailto:blazing.shaif@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="m-sehrawat" /></a> 
 </p>
 
 
@@ -51,14 +51,6 @@
 
 <!-- <h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
 
-<p>
-<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone&locale=en&border_radius=0" alt="m-sehrawat"/>
-</a>
-  <a href="https://github.com/m-sehrawat/Adidas-Website-Clone">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Website-Clone&locale=en&border_radius=0" alt="m-sehrawat"/>
-</a>
-</p> -->
 
 
 
